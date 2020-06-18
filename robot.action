@@ -1,0 +1,11 @@
+#goal/Parameters
+float64[7] coord
+string type
+
+---
+#result
+float64[7] final_coord
+
+---
+#feedback
+string movement
