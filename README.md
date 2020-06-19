@@ -1,3 +1,6 @@
-# Panda_Movement
+AUTHORING SOURCES
+=================
 
-Panda movement using ROS Action Services
+
+Installation
+------------
