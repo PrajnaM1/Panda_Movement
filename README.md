@@ -1,6 +1,6 @@
-AUTHORING SOURCES
+Panda Movement
 =================
 
 
-Installation
+Panda Arm Movement using ROS Action Services
 ------------
