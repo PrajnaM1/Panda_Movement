@@ -31,7 +31,6 @@ endif()
 ## Generate actions in the 'action' folder
  add_action_files(
    FILES
-   robot.action
    robot_geo.action
  )
 
@@ -109,12 +108,12 @@ catkin_install_python(PROGRAMS
     nodes/pc_publish
     nodes/static_publisher
     nodes/simulator
-    nodes/turtlesim_dkey
-    nodes/turtlesim_akey
-    nodes/trlistener
-    nodes/tr_listener_q
-    nodes/trlistener_combined
-    nodes/rot_trans
+    #nodes/turtlesim_dkey
+    #nodes/turtlesim_akey
+    #nodes/trlistener
+    #nodes/tr_listener_q
+    #nodes/trlistener_combined
+    #nodes/rot_trans
     DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
 
 install(TARGETS pandaJacob
