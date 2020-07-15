@@ -1,4 +1,4 @@
-Panda Movement
+Panda Movement (RVIZ)
 =================
 
 
